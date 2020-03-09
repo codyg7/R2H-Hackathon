@@ -131,7 +131,7 @@ html, body {
     padding: 10px;
     border: solid #3680AD;
     border-width: 5px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     background-color: #F5F5F5;
     line-height: 2em;
 }
@@ -157,7 +157,7 @@ html, body {
     padding: 10px;
     border: solid #3680AD;
     border-width: 5px;
-    border-radius: 10px;
+   /* border-radius: 10px; */
     background-color: #F5F5F5;
     line-height: 2em;
 }
